@@ -306,24 +306,14 @@ Web application vulnerability fuzzing tool designed to detect security flaws thr
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arrester&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4B8BF5&icon_color=4ECDC4&text_color=FFFFFF" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrester&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4B8BF5&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrester&theme=tokyonight&hide_border=true&background=0D1117&ring=4B8BF5&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Contact & Social
 
 <p align="center">
   <a href="https://github.com/arrester">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:arresterloyal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://mobilehacking.kr">
     <img src="https://img.shields.io/badge/Wargame-mobilehacking.kr-FF6B6B?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Hacking" />
@@ -339,4 +329,5 @@ Web application vulnerability fuzzing tool designed to detect security flaws thr
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arrester&color=4B8BF5&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
