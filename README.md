@@ -121,7 +121,7 @@ Conducting advanced red team assessments and penetration testing services for:
 
 ---
 
-## 🎯 CTF Team & Community Operations
+## 🎯 CTF Competition Operations
 
 <details>
 <summary><b>Click to expand/collapse</b></summary>
