@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Red%20Team-Player-FF6B6B?style=for-the-badge" alt="Red Team" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-Player-4ECDC4?style=for-the-badge" alt="Pentest" />
   <img src="https://img.shields.io/badge/CTF-Player-FFE66D?style=for-the-badge" alt="CTF" />
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-A8DADC?style=for-the-badge" alt="Bug Bounty" />
 </p>
