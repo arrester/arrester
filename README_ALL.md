@@ -284,9 +284,9 @@ Web application vulnerability fuzzing tool designed to detect security flaws thr
 | 2025.06.25 | **Seoul Public Institution** | Web Secure Coding |
 | 2025.05.28 | **Jeju Public Institution** | Red Team Reconnaissance Methodology & Web Vulnerability Analysis Basics |
 | 2024.11.29 | **2024 Cyber Guardians** | Web Hacking (2024.07.01 - 2024.11.29) |
+| 2024.11.25-29 | **? Company** | Real-world Scenario Penetration Testing |
 | 2024.07.11-12 | **KISIA Security Academy** | Web Structure for Web Hacking |
 | 2024.06.10-12 | **Korea Hydro & Nuclear Power** | CTF Preparation - Beginner to Intermediate Course |
-| 2023.12.21-22 | **SecuI** | Web Hacking Based on Equipment Inspection Project Results |
 | 2023.12.13-14 | **Korea Power Exchange** | Web Hacking Basics |
 | 2023.12.05 | **KEPCO KDN** | Web Hacking (feat. CTF) |
 | 2023.10.19 | **Cyber Operations Command** | Web Vulnerability Analysis |
