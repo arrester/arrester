@@ -55,7 +55,7 @@ Offensive Security Researcher and Red Team Operator specializing in discovering 
 
 <div align="center">
 
-### 🚨 ENKI WHITEHAT Red Team Operations (2022 - Present)
+### 🚨ENKI WHITEHAT Red Team Operations (2022 - Present)
 
 Conducting advanced red team assessments and penetration testing services for:
 - **Major Enterprises** • **Financial Institutions** • **Government Agencies** • **Critical Infrastructure**
@@ -76,7 +76,7 @@ Conducting advanced red team assessments and penetration testing services for:
 ## 🎤 Conference Presentations
 
 <details open>
-<summary><b>Click to expand/collapse</b></summary>
+<summary><b>Click to expand/collapse - Full History</b></summary>
 
 | Date | Conference | Topic |
 |------|------------|-------|
@@ -88,7 +88,6 @@ Conducting advanced red team assessments and penetration testing services for:
 | 2022.02.01 | **24th Hacking Camp** | Web Vulnerability Manual Analysis Support Tool (BWASP) |
 | 2021.07.01 | **2021 CodeEngn Conference 17** | 2020 Android App Vulnerability Analysis and Related Vulnerability Test App Development |
 | 2021.02.01 | **22nd Hacking Camp** | Web Vulnerability Scanner |
-| ... | *and more* | |
 
 </details>
 
@@ -97,7 +96,7 @@ Conducting advanced red team assessments and penetration testing services for:
 ## 🥇 CTF Achievements & Awards
 
 <details open>
-<summary><b>Click to expand/collapse</b></summary>
+<summary><b>Click to expand/collapse - Full History</b></summary>
 
 ### CTF Competition Results
 
@@ -113,7 +112,8 @@ Conducting advanced red team assessments and penetration testing services for:
 | 2024.03.24 | **LINE CTF 2024** | 5th Place | Odin |
 | 2024.01.21 | **Insomni'hack teaser** | 9th Place | Odin |
 | 2023.10.09 | **BlackHat MEA CTF 2023** | Finals Qualified | White_Hat_Kr |
-| ... | *and more* | | |
+| 2023.03.26 | **LINE CTF 2023** | 8th Place | Okey._.Dontkey |
+| 2021.08.01 | **WORMCON 0x01 CTF** | 8th Place | Demon |
 
 ### Other Awards & Recognition
 
@@ -122,32 +122,44 @@ Conducting advanced red team assessments and penetration testing services for:
 | 2024 | **Digital Forensics Challenge 2024** | 8th Place (illusion) |
 | 2023 | **Digital Forensics Challenge 2023** | 10th Place (illusion) |
 | 2020 | **21st Hacking Camp** | Best Hacker Award |
-| 2011 | **2nd Busan Robot Competition** | Honorable Mention (Humanoid Battle) |
-| ... | *and more* | |
+| 2011 | **9th Busan Student Robot Competition** | Line Tracer High School Division - Honorable Mention |
+| 2011 | **2nd Busan Robot Competition** | Humanoid Battle Division - Honorable Mention |
 
 </details>
 
 ---
 
-## 🎯 CTF Competition Operations
+## 🎯 CTF Team & Community Operations
 
-<details>
-<summary><b>Click to expand/collapse</b></summary>
+<details open>
+<summary><b>Click to expand/collapse - Full History</b></summary>
 
 ### Competition Operations
 
 | Year | Event | Role |
 |------|-------|------|
-| 2025 | **FIESTA 2025** | Problem Author & Organizer |
-| 2025 | **CCE (Cyber Attack Defense Competition) 2025** | Problem Author & Organizer |
-| 2025 | **31st Hacking Camp CTF** | Problem Author & Organizer |
-| 2024 | **CCE (Cyber Attack Defense Competition) 2024** | Problem Author & Organizer |
-| 2024 | **CODEGATE 2024 International Hacking Defense Competition** | Problem Author & Organizer |
-| 2023 | **CCE (Cyber Attack Defense Competition) 2023** | Problem Author & Organizer |
-| 2023 | **CODEGATE 2023 International Hacking Defense Competition** | Problem Author & Organizer |
-| 2023 | **FIESTA 2023** | Problem Author & Organizer |
-| 2022 | **POX CTF 2022** | Problem Author & Organizer |
-| ... | *and more* | |
+| 2025.09.26-28 | **FIESTA 2025** | Problem Author & Organizer |
+| 2025.09.11 | **CCE (Cyber Attack Defense Competition) 2025** | Problem Author & Organizer |
+| 2025.08.30-31 | **31st Hacking Camp CTF** | Problem Author & Organizer |
+| 2025.02.15-16 | **30th Hacking Camp CTF** | Problem Author & Organizer |
+| 2024.08.17-18 | **29th Hacking Camp CTF** | Problem Author & Organizer |
+| 2024.08.10 | **CCE (Cyber Attack Defense Competition) 2024** | Problem Author & Organizer |
+| 2024.06.08 | **CODEGATE 2024 International Hacking Defense Competition** | Problem Author & Organizer |
+| 2024.02.17-18 | **28th Hacking Camp CTF** | Problem Author & Organizer |
+| 2023.09.09-16 | **FIESTA 2023** | Problem Author & Organizer |
+| 2023.08.26-27 | **27th Hacking Camp CTF** | Problem Author & Organizer |
+| 2023.04.01 | **CCE (Cyber Attack Defense Competition) 2023** | Problem Author & Organizer |
+| 2023.04.01 | **CODEGATE 2023 International Hacking Defense Competition** | Problem Author & Organizer |
+| 2023.02.01 | **26th Hacking Camp CTF** | Problem Author & Organizer |
+| 2022.11.01 | **POX CTF 2022** | Problem Author & Organizer |
+| 2022.09.01 | **FIESTA 2022** | Problem Author & Organizer |
+| 2022.08.01 | **25th Hacking Camp CTF** | Problem Author & Organizer |
+| 2022.07.01 | **Chungbuk Hacking Camp CTF** | Problem Author & Organizer |
+| 2022.02.01 | **24th Hacking Camp CTF** | Problem Author & Organizer |
+| 2021.11.01 | **POX CTF 2021** | Problem Author & Organizer |
+| 2021.08.01 | **23rd Hacking Camp CTF** | Problem Author & Organizer |
+| 2021.02.01 | **22nd Hacking Camp CTF** | Problem Author & Organizer |
+| 2020.11.01 | **POX CTF 2020** | Problem Author & Organizer |
 
 </details>
 
@@ -226,8 +238,8 @@ Web application vulnerability fuzzing tool designed to detect security flaws thr
 
 ## 🎓 Education & Mentorship
 
-<details>
-<summary><b>Click to expand/collapse</b></summary>
+<details open>
+<summary><b>Click to expand/collapse - Full History</b></summary>
 
 <p align="center">
   <img src="./img/boblogo.png" alt="BoB" height="80" />
@@ -240,22 +252,22 @@ Web application vulnerability fuzzing tool designed to detect security flaws thr
 **2025 (3rd Generation)**
 - Project Mentor: "We Found the Bug" - Web Bug Bounty
 - Project Mentor: "A dog that was chasing a chicken stares at vulnerability analysis." - Smart Device Vulnerability Analysis
-- Training: Mobile App Vulnerability Analysis Basics
-- Training: Red Team Practical Understanding
-- Training: Information Security Ethics
+- Training: Mobile App Vulnerability Analysis Basics (2025.03.16)
+- Training: Red Team Practical Understanding (2025.08.09)
 
 **2024 (2nd Generation)**
 - Project Mentor: "ASAP" - Mobile App Vulnerability Automation Research
 - Project Mentor: "Andromeda" - Mobile App Bug Bounty
-- Training: Mobile App Vulnerability Analysis Basics
-- Training: Red Team Practical Understanding
-- Training: Information Security Ethics
+- Training: Mobile App Vulnerability Analysis Basics (2024.03.17)
+- Training: Red Team Practical Understanding (2024.07.27)
+- Training: Information Security Ethics (2024.03.11 - 2024.09.30)
 
 **2023 (1st Generation)**
 - Project Mentor: "WAD" - AI-based Web Vulnerability Testing Tool Development
 - Project Mentor: "BukBuk" - Web Automation Tool Analysis for Bug Bounty Optimization
-- Training: Mobile App Vulnerability Analysis Basics
-- Training: Information Security Ethics
+- Training: Mobile App Vulnerability Analysis Basics (2023.09.24)
+- Training: Information Security Ethics (2023.09.01 - 2024.03.31)
+- Training: Mobile App Vulnerability Analysis Basics 2 (2024.02.04)
 
 ### BoB (Best of the Best)
 
@@ -264,7 +276,7 @@ Web application vulnerability fuzzing tool designed to detect security flaws thr
 - Successfully completed the vulnerability analysis track
 - Developed browser extension-based web security testing tool
 
-### Selected Training & Lectures
+### Professional Training & Lectures
 
 | Date | Organization | Topic |
 |------|--------------|-------|
@@ -272,10 +284,21 @@ Web application vulnerability fuzzing tool designed to detect security flaws thr
 | 2025.06.25 | **Seoul Public Institution** | Web Secure Coding |
 | 2025.05.28 | **Jeju Public Institution** | Red Team Reconnaissance Methodology & Web Vulnerability Analysis Basics |
 | 2024.11.29 | **2024 Cyber Guardians** | Web Hacking (2024.07.01 - 2024.11.29) |
-| 2024.07.27 | **BoB WhiteHat School** | Red Team Practical Understanding |
 | 2024.07.11-12 | **KISIA Security Academy** | Web Structure for Web Hacking |
 | 2024.06.10-12 | **Korea Hydro & Nuclear Power** | CTF Preparation - Beginner to Intermediate Course |
-| ... | *and more* | |
+| 2023.12.21-22 | **SecuI** | Web Hacking Based on Equipment Inspection Project Results |
+| 2023.12.13-14 | **Korea Power Exchange** | Web Hacking Basics |
+| 2023.12.05 | **KEPCO KDN** | Web Hacking (feat. CTF) |
+| 2023.10.19 | **Cyber Operations Command** | Web Vulnerability Analysis |
+| 2023.07.25 | **Cyber Operations Command** | Web Vulnerability Analysis |
+| 2023.07.04 - 11.28 | **2023 Cyber Guardians** | Web Hacking |
+| 2023.05.30 - 06.01 | **? Company** | Web Hacking Intermediate & Advanced |
+| 2022.09.01 - 11.01 | **2022 Cyber Guardians** | Web Hacking |
+| 2022.07.01 | **Chungbuk Hacking Camp** | Reversing Lecture |
+| 2021.03.01 - 06.01 | **Dongguk University Wise Campus** | RC Hacking and Security - Digital Forensics (2021 Spring Semester) |
+| 2020.09.01 - 12.01 | **Dongguk University Wise Campus** | RC Hacking and Security - Digital Forensics (2020 Fall Semester) |
+| 2020.09.01 - 12.01 | **Dongguk University Wise Campus** | RC Hacking and Security - Reverse Engineering (2020 Fall Semester) |
+| 2020.03.01 - 06.01 | **Dongguk University Wise Campus** | RC Hacking and Security - Reverse Engineering (2020 Spring Semester) |
 
 </details>
 
@@ -301,8 +324,8 @@ Web application vulnerability fuzzing tool designed to detect security flaws thr
 
 ## 📚 Research Publications
 
-<details>
-<summary><b>Click to expand/collapse</b></summary>
+<details open>
+<summary><b>Click to expand/collapse - Full History</b></summary>
 
 | Date | Publication | Title | Role |
 |------|-------------|-------|------|
@@ -337,5 +360,3 @@ Web application vulnerability fuzzing tool designed to detect security flaws thr
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arrester&color=4B8BF5&style=for-the-badge" alt="Profile Views" />
 </p>
-
-
