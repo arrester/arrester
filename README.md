@@ -160,8 +160,8 @@ Conducting advanced red team assessments and penetration testing services for:
 
 | CVE ID | Category | Target | Vulnerability Type |
 |--------|----------|--------|-------------------|
-| **KVE-2025-\*\*\*\*** | Web | * | Code Injection (RCE) |
-| **KVE-2025-\*\*\*\*** | Web | * | Code Injection (RCE) |
+| **KVE-2025-0794** | Web | zigger | Code Injection (RCE) |
+| **KVE-2025-0793** | Web | zigger | Code Injection (RCE) |
 | **CVE-2025-\*\*\*\*** | Web | * | Stored XSS |
 | **CVE-2025-\*\*\*\*** | Web | * | Stored XSS |
 | **CVE-2025-15138** | Web | TinyFileManager | File Upload (RCE) |
