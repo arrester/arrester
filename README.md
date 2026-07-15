@@ -23,18 +23,20 @@ Offensive Security Researcher and Red Team Operator specializing in discovering 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./img/odin_logo.png" alt="Odin CTF Team" height="120" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./img/d0kdo_logo.png" alt="D0kdo CTF Team" height="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./img/demonlogo.png" alt="Demon Hacking Team" height="120" />
 </p>
 
 <p align="center">
-  <strong>ENKI Red Team</strong> | <strong>Odin CTF Team</strong> | <strong>Demon Hacking Team</strong>
+  <strong>ENKI Red Team</strong> | <strong>Odin CTF Team</strong> | <strong>D0kdo CTF Team</strong> | <strong>Demon Hacking Team</strong>
 </p>
 
 ### 🎖️ Focus Areas
 
 ```
 🌐 Web Application Security              📱 Mobile Security (Android/iOS)
-🔐 Internal Pentest(Linux/Windows AD)   📡 Wireless Security
+🔐 Internal Pentest(Linux/Windows AD)    📡 Wireless Security
 ⚔️ Cyber Weapons Research                🔍 Vulnerability Research
 ```
 
@@ -71,6 +73,11 @@ Conducting advanced red team assessments and penetration testing services for:
 - Developed **Beaver**, an advanced reconnaissance tool for red team operations
 - Specialized in automated target discovery and intelligence gathering
 
+### 🏴 D0kdo CTF Team
+
+**Team Leader (2026 - Present)**
+- Leading D0kdo, a coalition CTF team formed mainly by ENKI WHITEHAT researchers
+
 ---
 
 ## 🎤 Conference Presentations
@@ -103,22 +110,29 @@ Conducting advanced red team assessments and penetration testing services for:
 
 | Date | Competition | Rank | Team |
 |------|-------------|------|------|
+| 2026.05 | **DEFCON CTF Qualifier 2026** (DEF CON CTF Qualifier 2026) | 12th Place - Finals Qualified | D0kdo |
+| 2026.05 | **NDIAS Automotive/IoT CTF** | 🥇 1st Place | D0kdo |
+| 2026.05 | **BKISC CTF 2026** | 🥈 International Div. 2nd / Overall 2nd | D0kdo |
+| 2026.04 | **UMDCTF 2026** | 🥈 General Div. 2nd / Overall 3rd | D0kdo |
 | 2025.11.20 | **7th TS Security Bug Finding Competition** | 🥈 Excellence Award | RedOps |
 | 2025.10.26 | **SAS CTF 2025 Finals** | 🥉 9th Place | Odin |
 | 2025.10.18 | **LINE CTF 2025** | 🥉 3rd Place | Odin |
 | 2025.08.31 | **Kaspersky CTF 2025** | 🥇 1st Place | Odin |
 | 2025.08.11 | **DEFCON 2025 Red Team Village CTF** | 4th Place | ENKI_WHITEHAT |
+| 2025.01 | **SSU CTF** | 9th Place | Odin1 |
 | 2024.06.16 | **justCTF 2024 teaser** | 10th Place | Odin |
 | 2024.04.21 | **Midnight Sun CTF 2024 Quals** | 11th Place (Finals) | Odin |
-| 2024.03.24 | **LINE CTF 2024** | 5th Place | Odin |
-| 2024.01.21 | **Insomni'hack teaser** | 9th Place | Odin |
-| 2023.10.09 | **BlackHat MEA CTF 2023** | Finals Qualified | White_Hat_Kr |
+| 2024.03 | **LINE CTF 2024** | 5th Place | Odin |
+| 2023.10 | **BlackHat MEA CTF 2023** | Finalist | White_Hat_Kr |
+| 2023.08 | **LINE CTF 2023** | 8th Place | Okey._.Dontkey |
+| 2021.08 | **WORMCON 0x01 CTF** | 8th Place | Demon |
 | ... | *and more* | | |
 
 ### Other Awards & Recognition
 
 | Year | Award | Details |
 |------|-------|---------|
+| 2026 | **LockedShields 2026** (NATO & National Intelligence Service) | International Cyber Defense Exercise - 5th Place (Defense Technology), 9th Place (Overall) |
 | 2024 | **Digital Forensics Challenge 2024** | 8th Place (illusion) |
 | 2023 | **Digital Forensics Challenge 2023** | 10th Place (illusion) |
 | 2020 | **21st Hacking Camp** | Best Hacker Award |
@@ -138,6 +152,7 @@ Conducting advanced red team assessments and penetration testing services for:
 
 | Year | Event | Role |
 |------|-------|------|
+| 2026 | **32nd Hacking Camp CTF** (POC SECURITY) | Problem Author & Organizer |
 | 2025 | **FIESTA 2025** | Problem Author & Organizer |
 | 2025 | **CCE (Cyber Attack Defense Competition) 2025** | Problem Author & Organizer |
 | 2025 | **31st Hacking Camp CTF** | Problem Author & Organizer |
@@ -160,6 +175,8 @@ Conducting advanced red team assessments and penetration testing services for:
 
 | CVE ID | Category | Target | Vulnerability Type |
 |--------|----------|--------|-------------------|
+| **CVE-2026-\*\*\*\*** | Binary | NASA fprime | DoS |
+| **CVE-2026-32756** | Web | admidio | File Upload (RCE) |
 | **KVE-2025-0794** | Web | zigger | Code Injection (RCE) |
 | **KVE-2025-0793** | Web | zigger | Code Injection (RCE) |
 | **CVE-2025-\*\*\*\*** | Web | * | Stored XSS |
